@@ -5,7 +5,7 @@ Praktikum Basis Data XI PPLG 2 -Sistem Manajemen Apotek
 
 ## Anggota
 1. [Risky Pramadhan Aidil Fitri] - Owner, DDL
-2. [Muhammad Fachri Ramadhani] - DML
+2. [Fachri Ramadhani] - DML
 3. [Muhammad Abu Bakar] - Query Select
 
 ## Struktur File
