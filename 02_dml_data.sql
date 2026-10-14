@@ -1,7 +1,7 @@
 -- ============================================================
 -- PEKAN 2: DML - INSERT DATA MASTER
 -- ============================================================
-USE db_farmasi_pplg2_kelX;
+USE db_farmasi_pplg2_kel9;
 
 -- 1. tb_pengguna (3 akun)
 INSERT INTO tb_pengguna VALUES
