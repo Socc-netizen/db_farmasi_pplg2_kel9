@@ -1,5 +1,5 @@
 -- ============================================================
--- PEKAN DUA: QUERY SELECT - Pattern Matching & Filter
+-- PEKAN 2: QUERY SELECT - Pattern Matching & Filter
 -- ============================================================
 USE db_farmasi_pplg2_kel9_2;
 
