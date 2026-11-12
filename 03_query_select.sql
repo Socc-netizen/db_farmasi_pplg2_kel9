@@ -1,7 +1,7 @@
 -- ============================================================
 -- PEKAN 2: QUERY SELECT - Pattern Matching & Filter
 -- ============================================================
-USE db_farmasi_pplg2_kelX;
+USE db_farmasi_pplg2_kel9_2;
 
 -- 1. LIKE: cari obat dengan nama mengandung 'FORTE'
 SELECT id_obat, nama_obat, harga_jual, stok
